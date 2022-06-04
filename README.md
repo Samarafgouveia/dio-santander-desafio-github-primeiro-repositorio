@@ -1,2 +1,2 @@
-# dio-santander-desafio-github-primeiro-repositorio
-Desafio de Projeto sobre Git/Github
+# Desafio de Projeto sobre  Git/GitHub da DIO para o Bootcamp Santander
+Repositório criado para o Desafio  de Projeto.
